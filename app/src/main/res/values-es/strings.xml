@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="field_goal">goles de campo</string>
+    <string name="safety">seguridad</string>
+    <string name="two_extra_points">+2 puntos extra</string>
+    <string name="one_extra_point">+1 punto extra</string>
+    <string name="touch_down">touch down</string>
+    <string name="team_b">Equipo B</string>
+    <string name="team_a">Equipo A</string>
+    <string name="reset">restablecer</string>
+    <string name="background_image">Imagen de Fondo</string>
+</resources>
